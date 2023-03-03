@@ -10,4 +10,4 @@ jobs:
     steps:
      - name: Workflow version
        id: versioning
-       uses: AtarB2B/github-semantic-versioning-actions@v1.0.0
+       uses: AtarB2B/github-semantic-versioning-actions@latest
